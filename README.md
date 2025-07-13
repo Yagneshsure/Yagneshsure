@@ -1,18 +1,18 @@
-<!-- Banner (optional, add a custom image or skip this line if you don't have one) -->
+<!-- Optional Header Image -->
 <!-- ![Header](https://github.com/Yagneshsure/Yagneshsure/assets/header-banner.png) -->
 
 <h1 align="center">Hi there 👋, I'm <span style="color:#00A8E8">Yagnesh Ravi Sure</span></h1>
-<h3 align="center">🚀 Data Scientist | 📊 Data Analyst | 🤖 ML Engineer</h3>
+<h3 align="center">🚀 Data Scientist | 📊 Data Analyst | 🤖 Machine Learning Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yagnesh-sure/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:sure.yagnesh545@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:yagneshrsure@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Yagneshsure">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -42,21 +42,30 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-AA0000?style=for-the-badge&logo=xgboost&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-03264C?style=for-the-badge&logo=lightgbm&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 🧪 Data Engineering / Cloud
+### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![mlflow](https://img.shields.io/badge/mlflow-0175C2?style=for-the-badge&logo=mlflow&logoColor=white)
+
+### 🧪 Data Engineering
 ![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 
-### 💾 Databases
+### 🛢️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Amazon DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 
 ### 📊 Data Visualization
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
@@ -80,20 +89,29 @@
 
 ---
 
-## 🎓 Certifications
+## 🧾 Certifications
 
-- 🧾 IBM Data Science Professional Certificate  
-- 🧾 Advanced Programming in Data Science – GUVI + IIT  
-- 🧾 Cisco Intro to Data Science  
-- 🧾 Coursera: EDA, MySQL, Linear Regression in R
+- ✅ IBM Data Science Professional Certificate  
+- ✅ Advanced Programming in Data Science – GUVI + IIT  
+- ✅ Cisco Introduction to Data Science  
+- ✅ Coursera: Exploratory Data Analysis, MySQL, R Linear Regression
 
 ---
 
 ## 📫 Let’s Connect
 
-💌 **Email**: sure.yagnesh545@gmail.com  
-🔗 **LinkedIn**: [linkedin.com/in/yagnesh-sure](https://www.linkedin.com/in/yagnesh-sure)
+<p>
+  <a href="mailto:yagneshrsure@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email%201-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Primary Email"/>
+  </a>
+  <a href="mailto:yagneshsure10@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email%202-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Secondary Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yagnesh-sure/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
-⭐ *Thanks for stopping by! Feel free to explore, collaborate, or reach out!* 😊
+⭐ *Thanks for visiting my profile! Let's connect and build something impactful together!*
