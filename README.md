@@ -76,31 +76,36 @@
 
 ---
 
----
-
-## 📈 GitHub Stats & Achievements
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <!-- Profile Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Yagneshsure&show_icons=true&theme=radical&count_private=true&hide_title=false&hide_border=false&include_all_commits=true" width="48%" />
+  <!-- Profile Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Yagneshsure&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="45%" />
   
-  <!-- Streak Stats Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yagneshsure&theme=radical" width="48%" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yagneshsure&layout=compact&theme=tokyonight&hide=html" width="45%" />
 </p>
 
 <p align="center">
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yagneshsure&layout=compact&theme=radical&hide_title=false&hide_border=false" width="48%" />
-
-  <!-- Extra Achievements -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yagneshsure&theme=radical" width="48%" />
-</p>
-
-<p align="center">
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yagneshsure&theme=tokyonight" width="45%" />
+  
   <!-- Contribution Graph -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=Yagneshsure&theme=react-dark&area=true" width="100%" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=Yagneshsure&theme=react-dark&area=true" width="45%" />
 </p>
 
+<p align="center">
+  <!-- Repo Cards: Recent/Top Repos -->
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yagneshsure&repo=MarketScopeAI&theme=tokyonight" width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yagneshsure&repo=HeadlineHive-Intelligent-News-Aggregator-Analyzer-GenAI-AI&theme=tokyonight" width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yagneshsure&repo=Portfolio-Projects&theme=tokyonight" width="30%" />
+</p>
+
+<p align="center">
+  <!-- Extra Graphs: Contribution heatmaps / weekly stats -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yagneshsure&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Yagneshsure&theme=tokyonight&bg_color=0D1117&line=00FFFF&point=FF00FF&area=true&hide_border=false" width="45%" />
+</p>
 
 ---
 
