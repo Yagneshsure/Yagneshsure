@@ -119,3 +119,126 @@
 ---
 
 ⭐ *Thanks for visiting my profile! Let's connect and build something impactful together!*
+
+
+
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://github.com/Yagneshsure/Yagneshsure/assets/header-banner.png" alt="Header" width="100%" />
+</p>
+
+<h1 align="center">Hi there 👋, I'm <span style="color:#00A8E8">Yagnesh Ravi Sure</span></h1>
+<h3 align="center">🚀 Data Scientist | 📊 Data Analyst | 🤖 Machine Learning Engineer</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yagnesh-sure/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:yagneshrsure@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Yagneshsure">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🧠 About Me
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD6rBhrHfSZ4C2Q/giphy.gif" width="200"/>
+</p>
+
+- 🎓 Master's in Data Science (2024–2026)  
+- 📍 Based in Davangere, Karnataka, India  
+- 🔬 Building intelligent ML/DL systems & real-world analytics solutions  
+- 🛠️ Passionate about automating insights from large-scale data  
+- 📚 Lifelong learner exploring AI, MLOps, and Data Engineering  
+
+---
+
+## ⚡ Skills & Tech Stack
+
+### 💻 Programming Languages
+<p align="center">
+  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+  ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+</p>
+
+### 🤖 Machine Learning / Deep Learning
+<p align="center">
+  ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+  ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+</p>
+
+### ☁️ Cloud & DevOps
+<p align="center">
+  ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+</p>
+
+### 📊 Data Visualization
+<p align="center">
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
+  ![Seaborn](https://img.shields.io/badge/Seaborn-45b8cd?style=for-the-badge&logo=seaborn&logoColor=white)
+  ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+  ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yagneshsure&show_icons=true&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yagneshsure&theme=tokyonight" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yagneshsure&layout=compact&theme=tokyonight" width="45%" />
+</p>
+
+---
+
+## 🏆 Certifications & Achievements
+
+- ✅ IBM Data Science Professional Certificate  
+- ✅ Advanced Programming in Data Science – GUVI + IIT  
+- ✅ Cisco Introduction to Data Science  
+- ✅ Coursera: Exploratory Data Analysis, MySQL, R Linear Regression
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="mailto:yagneshrsure@gmail.com">
+    <img src="https://img.shields.io/badge/Email%201-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="mailto:yagneshsure10@gmail.com">
+    <img src="https://img.shields.io/badge/Email%202-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yagnesh-sure/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="tel:+919591083438">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+⭐ *Thanks for visiting my profile! Let's connect and build something impactful together!*  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26gsgIkc1z0jAyGfO/giphy.gif" width="200" />
+</p>
+
