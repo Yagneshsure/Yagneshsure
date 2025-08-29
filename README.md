@@ -95,9 +95,7 @@
   
   <!-- Profile Summary Card -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yagneshsure&theme=radical" width="48%" />
-</p>
 
-<p align="center">
   <!-- Pinned Repos -->
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yagneshsure&repo=MarketScopeAI&theme=radical" width="30%" />
   
