@@ -100,8 +100,7 @@
 <p align="center">
   <!-- Pinned Repos -->
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yagneshsure&repo=MarketScopeAI&theme=radical" width="30%" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yagneshsure&repo=HeadlineHive-Intelligent-News-Aggregator-Analyzer-GenAI-AI&theme=radical" width="30%" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yagneshsure&repo=Portfolio-Projects&theme=radical" width="30%" />
+  
 </p>
 
 ---
