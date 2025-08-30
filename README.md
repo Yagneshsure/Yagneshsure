@@ -93,9 +93,6 @@
   <!-- Contribution Graph -->
   <img src="https://activity-graph.herokuapp.com/graph?username=Yagneshsure&theme=react-dark&area=true" width="48%" />
   
-  <!-- Profile Summary Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yagneshsure&theme=radical" width="48%" />
-
 </p>
 
 ---
