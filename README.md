@@ -89,10 +89,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yagneshsure&theme=radical" width="32%" />
 </p>
 
-<p align="center">
-  <!-- Contribution Graph -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=Yagneshsure&theme=react-dark&area=true" width="48%" />
-  
+
 </p>
 
 ---
