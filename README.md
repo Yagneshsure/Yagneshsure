@@ -115,7 +115,7 @@
   <a href="https://www.linkedin.com/in/yagnesh-sure/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="tel:+919591083438">
+  <a href="tel:+918277716107">
     <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
   </a>
 </p>
