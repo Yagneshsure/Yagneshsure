@@ -73,7 +73,7 @@ An AI system that queries vector databases for relevant documents using **Retrie
 
 ---
 
-## 🧩 Competitive Programming
+[## 🧩 Competitive Programming
 
 <p align="center">
   <a href="https://leetcode.com/u/yagneshsure10/" target="_blank">
@@ -81,7 +81,7 @@ An AI system that queries vector databases for relevant documents using **Retrie
   </a>
 </p>
 
-💡 Actively solving algorithmic and data structure challenges to sharpen coding skills, logical reasoning, and problem-solving efficiency.
+💡 Actively solving algorithmic and data structure challenges to sharpen coding skills, logical reasoning, and problem-solving efficiency.](https://leetcode.com/u/yagneshsure10/)
 
 
 Currently solving problems in **data structures and algorithms** to strengthen analytical and coding efficiency.  
