@@ -1,5 +1,5 @@
 <!-- Optional Header Image -->
-<-- ![Header](https://github.com/Yagneshsure/Yagneshsure/assets/header-banner.png) -->
+![Header](https://github.com/Yagneshsure/Yagneshsure/assets/header-banner.png)
 
 <h1 align="center">Hi 👋, I'm Yagnesh Sure</h1>
 <h3 align="center">Data Scientist & AI Developer | Building Intelligent, Real-World AI Systems</h3>
@@ -41,22 +41,6 @@ I focus on practical problem-solving, performance optimization, and building sys
 - **Analytics & Visualization:** Power BI, Plotly, Matplotlib, Seaborn, Pandas  
 - **Tools:** Git, VS Code, Jupyter, Anaconda, Linux  
 
----
-
-## 🧩 Competitive Programming
-
-<p align="center">
-  <a href="https://leetcode.com/u/yagneshsure10/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
-  </a>
-</p>
-
-Currently solving problems in **data structures and algorithms** to strengthen analytical and coding efficiency.  
-*Goal:* Reach 100+ problems solved and improve problem-solving consistency.
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/yagneshsure10?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Stats" />
-</p>
 
 ---
 
@@ -86,6 +70,24 @@ An AI system that queries vector databases for relevant documents using **Retrie
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagneshsure&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
+
+---
+
+## 🧩 Competitive Programming
+
+<p align="center">
+  <a href="https://leetcode.com/u/yagneshsure10/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
+  </a>
+</p>
+
+Currently solving problems in **data structures and algorithms** to strengthen analytical and coding efficiency.  
+*Goal:* Reach 100+ problems solved and improve problem-solving consistency.
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/yagneshsure10?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
 
 ---
 
