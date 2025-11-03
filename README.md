@@ -85,12 +85,9 @@ An AI system that queries vector databases for relevant documents using **Retrie
 
 💡 Strengthening data structures and algorithms through regular problem-solving on LeetCode.
 
-
-
 Currently solving problems in **data structures and algorithms** to strengthen analytical and coding efficiency.  
 *Goal:* Reach 100+ problems solved and improve problem-solving consistency.
 
-💡 Strengthening data structures and algorithms through regular problem-solving on LeetCode.
 ---
 
 ## 🎓 Certifications
