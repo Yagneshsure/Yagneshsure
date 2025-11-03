@@ -76,7 +76,7 @@ An AI system that queries vector databases for relevant documents using **Retrie
 ## 🧩 Competitive Programming
 
 <p align="center">
-  <a href="https://leetcode.com/u/yagnesh_sure/" target="_blank">
+  <a href="https://leetcode.com/u/yagneshsure10/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
   </a>
 </p>
@@ -92,7 +92,7 @@ Currently solving problems in **data structures and algorithms** to strengthen a
 ## 🧩 Competitive Programming
 
 <p align="center">
-  <a href="https://leetcode.com/u/yagneshs_ure/" target="_blank">
+  <a href="https://leetcode.com/u/yagneshsure10/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
   </a>
 </p>
