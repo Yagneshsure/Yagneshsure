@@ -84,6 +84,16 @@ An AI system that queries vector databases for relevant documents using **Retrie
 Currently solving problems in **data structures and algorithms** to strengthen analytical and coding efficiency.  
 *Goal:* Reach 100+ problems solved and improve problem-solving consistency.
 
+## 🧩 Competitive Programming
+
+<p align="center">
+  <a href="https://leetcode.com/u/yagneshsure10/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
+  </a>
+</p>
+
+💡 Strengthening data structures and algorithms through regular problem-solving on LeetCode.
+
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/yagneshsure10?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Stats" />
 </p>
