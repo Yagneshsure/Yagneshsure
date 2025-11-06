@@ -54,9 +54,7 @@ Building intelligent, data-driven recommendation engines using **Autoencoders, R
 ---
 
 ### 🔹 [RAGent](https://github.com/yagneshsure/MCP-Powered-Agentic-RAG)
-**MCP-Powered Agentic RAG System**  
-An AI system that queries vector databases for relevant documents using **Retrieval-Augmented Generation** (RAG).  
-*Tech Stack:* LangChain, LLMs, MCP, FAISS, FastAPI.
+
 
 ---
 
